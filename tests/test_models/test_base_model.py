@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-# Author: Brian Sakwa
 """Defines classes for models/base_model.py.
 Unittest classes:
     TestBModel_instantiation
